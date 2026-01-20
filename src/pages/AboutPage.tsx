@@ -6,6 +6,7 @@ import {
 	Building2,
 	CheckCircle2,
 	Target,
+	GraduationCap,
 } from 'lucide-react'
 import React from 'react'
 
