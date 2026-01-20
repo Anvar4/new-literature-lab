@@ -5,8 +5,8 @@ import {
 	Briefcase,
 	Building2,
 	CheckCircle2,
-	Target,
 	GraduationCap,
+	Target,
 } from 'lucide-react'
 import React from 'react'
 
